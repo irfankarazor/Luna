@@ -1,0 +1,4 @@
+
+
+ 
+int sendMessage(char* message);
